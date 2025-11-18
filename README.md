@@ -1,2 +1,1 @@
-# Projeto do Lustre AI
-**Niggas**
+# Projeto do L
