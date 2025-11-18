@@ -1,1 +1,1 @@
-# Projeto do L
+# Projeto do Lustre AI
